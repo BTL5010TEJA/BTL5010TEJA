@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/balina tejalakshman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balina tejalakshman" height="30" width="40" /></a>
 <a href="https://kaggle.com/balinatejalakshman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="balinatejalakshman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tbalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tbalina" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tbalina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tbalina" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/x3ebvgadrb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="x3ebvgadrb" height="30" width="40" /></a>
 </p>
 
