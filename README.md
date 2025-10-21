@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Teja Lakshman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div style="text-align: center;">
-  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/dc416e92-406e-4751-a342-9080987ca8ee" />
-
-     
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BTL5010TEJA/BTL5010TEJA/main/teja-coding.gif" width="600" alt="Teja coding animation">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/BTL5010TEJA/BTL5010TEJA/main/wave-hand.gif" width="200" alt="Hi GIF">
 </div>
+
 
 
 
