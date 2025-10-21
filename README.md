@@ -2,11 +2,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/0e599e2a-bfc4-4459-8560-66569232761a" 
-       alt="image" 
-       width="680" 
+  <img src="https://github.com/user-attachments/assets/YOUR_DYNAMIC_GIF.gif"
+       alt="animated gif"
+       width="680"
        height="428">
 </div>
+
 
 
 
