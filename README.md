@@ -2,15 +2,12 @@
 <h3 align="center">A passionate  developer from India</h3>
 
 <div align="center">
-  <img src="" 
-       width="400" 
-       alt="Teja coding animation"
-       style="display:inline-block; margin-right: 20px;"/>
-
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" 
        width="400" 
-       alt="Hi GIF"
+       alt="Teja coding animation"
        style="display:inline-block;"/>
+
+
 </div>
 
 
