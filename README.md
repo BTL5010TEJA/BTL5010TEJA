@@ -2,7 +2,7 @@
 <h3 align="center">A passionate  developer from India</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" 
+  <img src="https://pixabay.com/gifs/man-work-laptop-business-computer-1835/" 
        width="400" 
        alt="Teja coding animation"
        style="display:inline-block;"/>
